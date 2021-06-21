@@ -70,6 +70,7 @@ Key Takeaways:
     shortage, etc.)
 
 ![](Assessment_jones_files/figure-markdown_strict/unnamed-chunk-2-1.png)
+
 The graph above shows the median days on market and percent of listings
 that increased their listing price, split out by month and year. This
 chart allows us to compare the trend by month in each year, and across

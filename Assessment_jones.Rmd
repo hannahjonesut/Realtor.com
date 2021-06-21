@@ -88,6 +88,7 @@ ggplot(data = usa_2020_2021)+
   labs(x="Median Days on Market",  y = "% of Listings that Increased Price" , title = " Days on Market vs % Price Increased, US Monthly 2020-2021")
   
 ```
+
 The graph above shows the median days on market and percent of listings that increased their listing price, split out by month and year.  This chart allows us to compare the trend by month in each year, and across years.  
 
 Key Takeaways: 
