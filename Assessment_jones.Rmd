@@ -2,7 +2,7 @@
 title: "Realtor.com Final Assessment"
 author: "Hannah Jones"
 date: "6/20/2021"
-output: pdf_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE, fig.height = 4, fig.width = 6}
